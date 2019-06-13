@@ -1,3 +1,8 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(assets/dominique.otf);
+}
+
 h1{
   color: #d8e7ff;
   text-align: center;

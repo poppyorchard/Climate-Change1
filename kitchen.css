@@ -8,17 +8,17 @@ p {
   color: black;
   font-family: 'Hind Siliguri', sans-serif;
   font-size: 20px;
+  position: fixed;
   text-align: center;
 }
 
 #h1{
   color: #d8e7ff;
+  background-color: none;
   text-align: center;
   font-size: 100px;
   text-shadow: black 3px 2px 10px;
   font-family: 'Dominique', Regular;
-  bottom padding: 0px;
-  padding: 0px;
 }
 
 body, html {

@@ -1,3 +1,8 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(assets/dominique.otf);
+}
+
 h1{
   color: #ffd7b8;
   text-align: center;
@@ -27,7 +32,7 @@ p {
   background-color: #d8e7ff;
   color: grey;
   font-family: 'Hind Siliguri', sans-serif;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
 

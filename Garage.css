@@ -1,3 +1,8 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(assets/dominique.otf);
+}
+
 h1{
   color: #62b6bf;
   text-align: center;
@@ -27,7 +32,7 @@ p {
   background-color: #62b6bf;
   color: white;
   font-family: 'Hind Siliguri', sans-serif;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
 
@@ -47,14 +52,14 @@ button {
 }
 
 #gasCar {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   position:fixed;
   bottom: 0px;
   left: 6%;
 }
 
 #electricCar {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   position:fixed;
   bottom: 0px;
   right: 6%;

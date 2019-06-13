@@ -33,8 +33,9 @@ p {
   background-color: #d8e7ff;
   color: black;
   font-family: 'Hind Siliguri', sans-serif;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
+  top: 10px;
 }
 
 .image-container {
@@ -52,28 +53,28 @@ button {
 }
 
 #oven {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   position:fixed;
   bottom: 0px;
   left: 6%;
 }
 
 #stove {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   position:fixed;
   bottom: 0px;
   left: 28%;
 }
 
 #dishwasher{
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   position:fixed;
   bottom: 0px;
   left: 47%;
 }
 
 #fridge {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   position:fixed;
   bottom: 0px;
   right: 6%;

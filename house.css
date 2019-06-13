@@ -29,5 +29,7 @@ button {
   top: 386px;
 }
 #bathroomButton2{
-  
+  position: fixed;
+  left: 57%;
+  top: 381px;
 }

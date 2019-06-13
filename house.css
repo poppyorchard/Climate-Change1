@@ -8,23 +8,26 @@ h1 {
 }
 
 button {
-  opacity: 0;
+  opacity: 1;
   height: 10px;
   width: 10px;
 }
 
 #bathroomButton{
   position: fixed;
-  left: 37%;
+  left: 36%;
   top: 238px;
 }
 #garageButton{
   position: fixed;
-  left: 30%;
+  left: 27%;
   top: 411px;
 }
 #kitchenButton{
   position: fixed;
   left: 48%;
   top: 386px;
+}
+#bathroomButton2{
+  
 }
